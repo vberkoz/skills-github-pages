@@ -2,6 +2,7 @@
 layout: post
 title: "Javascript Developer Interview Questions"
 date: 2023-10-28
+permalink: /2023-10-28-javascript-developer-interview-questions.html
 ---
 
 # Basics of JavaScript:
